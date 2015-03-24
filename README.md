@@ -12,3 +12,4 @@ Features:
   Adding a segment
   Adding a task
   
+//Need help with defining the model
